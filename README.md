@@ -1,5 +1,5 @@
 # witcher
 
 line 3
-== toss a coin ==
-line 4
+toss a coin to your witcher
+oh valley of plenty
